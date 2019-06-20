@@ -10,6 +10,8 @@ jupyter = "*"
 pandas = "*"
 numpy = "*"
 ipykernel = "*"
+plotly = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.7"
